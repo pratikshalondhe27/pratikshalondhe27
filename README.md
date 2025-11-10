@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratiksha Londhe!  
 
-💻 **RPA Developer | Data Analyst | Power BI Enthusiast**  
+💻 **RData Analyst | Power BI Enthusiast | RPA Developer**  
 📍 Pune, India  
 
 ---
@@ -17,19 +17,7 @@ I love simplifying manual processes and transforming raw data into actionable in
 🎓 **Education:**  
 MCA (Pune University, 2025) | BBA(CA) (Pune University, 2021)  
 
----
 
-### 🧠 Experience  
-
-**RPA Developer — Soft Secure Store (2024–2025)**  
-- Built automation workflows using UiPath (Excel, PDF, web, and desktop)  
-- Implemented exception handling and reusable automation frameworks  
-
-**Trainee Software Developer — Roboinfocom Pvt Ltd (2021–2023)**  
-- Created Power BI dashboards and DAX-driven reports  
-- Worked with data transformations, SQL, and data validation  
-
----
 
 ### 🧰 Tech Stack  
 
