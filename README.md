@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratiksha Londhe!  
 
-💻 **RData Analyst | Power BI Enthusiast | RPA Developer**  
+💻 **Data Analyst | Power BI Enthusiast | RPA Developer**  
 📍 Pune, India  
 
 ---
