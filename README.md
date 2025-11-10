@@ -30,16 +30,16 @@ With over **2.4 years of hands-on experience**, I’ve built automation bots, da
 ### 🧰 Tools & Technologies  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
   <img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="50" alt="Tableau" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-uipath-is-a-global-software-company-for-robotic-process-automation-logo-color-tal-revivo.png" height="50" alt="UiPath" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-uipath-is-a-global-software-company-for-robotic-process- automation-logo-color-tal-revivo.png" height="50" alt="UiPath" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+
 </p>
 
 ---
@@ -95,3 +95,4 @@ With over **2.4 years of hands-on experience**, I’ve built automation bots, da
 ---
 
 ⭐ *“Automating tasks and visualizing data to create smarter digital solutions.”*
+
