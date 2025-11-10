@@ -1,27 +1,74 @@
+# 👋 Hi, I'm Pratiksha Londhe  
 
-## 👋 Hi, I'm Pratiksha Londhe
+## 💡 RPA Developer | Data Analyst | Power BI Enthusiast  
 
-I'm an **  Data Analyst and RPA Developer** passionate about automating business workflows and turning raw data into actionable insights.
+🚀 Passionate about **automation, analytics, and smart digital solutions** that simplify business processes and drive efficiency.  
+With over **2.4 years of hands-on experience**, I’ve built automation bots, dashboards, and data workflows using **UiPath**, **Power BI**, and **Python**.  
 
-### 💡 What I Do
-- 🤖 Build and deploy automation bots using **UiPath**
-- 📊 Design **interactive dashboards** and reports in **Power BI**
-- 🧠 Create **data validation and cleaning workflows** using Excel & automation
-- 💻 Work with **SQL, Python, Java**, and **Power Apps (Canvas)**
+---
 
-### 🧰 Technical Skills
-**RPA Tools:** UiPath (RE Framework, Orchestrator)  
-**Data Tools:** Power BI, DAX, Excel, SQL  
-**Programming:** Python, Java, HTML, CSS  
-**Other Tools:** Power Apps, GitHub, MySQL
+### 🧠 About Me  
+- 💼 **RPA Developer** @ *Soft Secure Store (2024–2025)* — built automation workflows using UiPath (Excel, PDF, web, and desktop).  
+- 💡 **Trainee Software Developer** @ *Roboinfocom Pvt Ltd (2021–2023)* — created Power BI dashboards & implemented DAX-driven insights.  
+- 🧩 Interested in combining **RPA + Data Visualization** to solve real-world business problems.  
+- 📘 Always learning and exploring **AI-based automation** and **data-driven decision systems**.
 
-### 🎓 Certifications
-- UiPath RPA Developer (Advanced)  
-- Power BI Masterclass – Basic to Advanced  
-- Data Analyst Certification  
+---
 
-### 🚀 Current Focus
-Exploring advanced **RPA solutions** and **data-driven automation** to create smarter, more efficient business processes.
+### ⚙️ Technical Skills  
 
-📫 **Reach me at:** [Pratikshalondhe227@gmail.com](mailto:Pratikshalondhe227@gmail.com)
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **RPA Tools** | UiPath (Studio, Orchestrator, RE Framework) |
+| **Data Visualization** | Power BI, DAX, SQL Direct Query |
+| **Programming** | Python, Java, HTML, CSS |
+| **Databases** | MySQL |
+| **Other Tools** | Excel Automation, PDF Processing, GitHub, Power Apps |
 
+---
+
+### 🏆 Certifications  
+- 🎓 **UiPath RPA Developer Advanced – UiPath Academy**  
+- 📊 **Power BI Masterclass (Basic to Advanced)**  
+- 📈 **Data Analyst Certification**  
+- 🧩 **Orchestrator for RPA Developers – Diploma of Completion**
+
+---
+
+### 💼 Featured Projects  
+- 🔸 **Looker to Power BI Migration** – Migrated Looker reports to Power BI using SQL Direct Query for real-time budgeting insights.  
+- 🔸 **Data Cleaning & Validation Automation** – Built UiPath bots to validate, transform, and clean datasets.  
+- 🔸 **Customer Info Scraper** – Automated customer data extraction from multiple web sources into Excel.  
+
+---
+
+### 🎓 Education  
+- 🎓 **MCA – JSPM’s JIMS Tathwade, Pune University (2025)** – 7.49 CGPA  
+- 🎓 **BBA(CA) – ASM College, Pune University (2021)** – 70.38%
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:pratikshalondhe227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *“Automating tasks and visualizing data to create smarter digital solutions.”*
