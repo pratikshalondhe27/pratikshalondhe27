@@ -10,6 +10,12 @@
 I'm an **RPA Developer** and **Data Analyst** passionate about building automation workflows and data-driven dashboards.  
 I love simplifying manual processes and transforming raw data into actionable insights using **UiPath** and **Power BI**.  
 
+### 💡 What I Do
+- 🤖 Build and deploy automation bots using **UiPath**
+- 📊 Design **interactive dashboards** and reports in **Power BI**
+- 🧠 Create **data validation and cleaning workflows** using Excel & automation
+- 💻 Work with **SQL, Python, Java**, and **Power Apps (Canvas)**
+
 🎯 **Currently:**  
 - Enhancing my skills in **AI-driven automation** and **data analytics**  
 - Exploring **Python** and **Power Apps** for intelligent business solutions  
