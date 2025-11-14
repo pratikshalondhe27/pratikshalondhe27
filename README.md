@@ -66,7 +66,7 @@ MCA (Pune University, 2025) | BBA(CA) (Pune University, 2021)
   <a href="mailto:pratikshalondhe227@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/pratiksha-londhe">
+  <a href="https://www.linkedin.com/in/pratiksha-londhe-ab5a69391/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pratikshalondhe27">
