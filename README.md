@@ -7,7 +7,7 @@
 
 ### 🌟 About Me  
 
-I'm an **RPA Developer** and **Data Analyst** passionate about building automation workflows and data-driven dashboards.  
+I'm an **Data Analyst** and **RPA Developer** passionate about building automation workflows and data-driven dashboards.  
 I love simplifying manual processes and transforming raw data into actionable insights using **UiPath** and **Power BI**.  
 
 ### 💡 What I Do
